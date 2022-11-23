@@ -1,10 +1,13 @@
 {
-  "name": "react-oliver-lib",
+  "name": "@olivercera/react-oliver-lib",
   "version": "1.0.0",
   "description": "Made with create-react-library",
   "author": "olivercera",
   "license": "MIT",
   "repository": "olivercera/react-oliver-lib",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/olivercera"
+  },
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.tsx",
