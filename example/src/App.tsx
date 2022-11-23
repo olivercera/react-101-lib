@@ -1,7 +1,7 @@
 import React from 'react'
 
-import { ExampleComponent, Oliver } from 'react-oliver-lib'
-import 'react-oliver-lib/dist/index.css'
+import { ExampleComponent, Oliver } from '@olivercera/react-oliver-lib'
+import '@olivercera/react-oliver-lib/dist/index.css'
 
 const App = () => {
   return (

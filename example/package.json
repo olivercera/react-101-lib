@@ -21,13 +21,13 @@
     "react-dom": "file:../node_modules/react-dom",
     "react-scripts": "file:../node_modules/react-scripts",
     "typescript": "file:../node_modules/typescript",
-    "react-oliver-lib": "file:.."    
+    "postcss-flexbugs-fixes": "file:../node_modules/postcss-flexbugs-fixes",
+    "postcss-preset-env": "file:../node_modules/postcss-preset-env",
+    "postcss-normalize": "file:../node_modules/postcss-normalize",
+    "@olivercera/react-oliver-lib": "file:.."    
   },
   "devDependencies": {
     "@babel/plugin-syntax-object-rest-spread": "^7.8.3"
-  },
-  "eslintConfig": {
-    "extends": "react-app"
   },
   "browserslist": {
     "production": [
