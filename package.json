@@ -6,7 +6,7 @@
   "license": "MIT",
   "repository": "olivercera/react-oliver-lib",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/olivercera"
+    "registry": "https://registry.npmjs.org/"
   },
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
